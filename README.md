@@ -1,11 +1,11 @@
 # me2-gibbed-editor-facecode
 
+<img alt="Cashmere Shepard" src="images/2008-11-26_154041.jpg" width="480px"/>
+
 This is the \`official' internal facecode for my ME/ME2 femshep based
 upon cracking the save file with Mass Effect 2 Gibbed Editor.
 
 See http://masseffect.livejournal.com/656484.html
-
-![Cashmere Shepard](images/2008-11-26_154041.jpg)
 
 Facial Structure | Internal Property | Float Value / Normal | Direction | Offset from Center
  --- | --- | --- | --- | :---:
