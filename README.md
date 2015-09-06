@@ -7,7 +7,8 @@ cracking the save file with Mass Effect 2 Gibbed Editor.
 
 See http://masseffect.livejournal.com/656484.html
 
- --- | --- | --- | --- | ---
+Facial Structure | Internal Property | Float Value / Normal | Direction | Offset from Center
+ --- | --- | --- | --- | :---:
 Neck Thickness | neck_wide | 0.02000002 / 0.02 | RIGHT | 1
 Face Size | shape_skinny | 0.03999998 / 0.02 | LEFT | 2
 Cheek Width | cheek_BonesOut | 0.426666737 / 0.0533333 | RIGHT | 8
@@ -33,5 +34,6 @@ Nose Depth | nose_BottomIn | 0.173333317 / 0.0433 | LEFT | 4
 
  
 <a name="footnote1">[1](#me2-gibbed-editor-facecode)</a>: Article said go \`LEFT' but appears to be wrong.
+
 <a name="footnote2">[2](#me2-gibbed-editor-facecode)</a>: Article says to divide by \`0.06667; think it should be 0.04.
 
