@@ -68,7 +68,8 @@ And a side-by-side comparison:
 ```
 
 -
-<a name="footnote1">[1](#derived-table)</a>: Article said go \`LEFT' but appears to be wrong.
+#### Footnotes
 
-<a name="footnote2">[2](#derived-table)</a>: Article says to divide by \`0.06667; think it should be 0.04.
+- <a name="footnote1">[1](#derived-table)</a>: Article said go \`LEFT' but appears to be wrong.
+- <a name="footnote2">[2](#derived-table)</a>: Article says to divide by \`0.06667; think it should be 0.04.
 
