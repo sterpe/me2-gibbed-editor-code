@@ -7,7 +7,7 @@ cracking the save file with Mass Effect 2 Gibbed Editor.
 
 See http://masseffect.livejournal.com/656484.html
 
-| --- | --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Neck Thickness | neck_wide | 0.02000002 / 0.02 | RIGHT | 1
 Face Size | shape_skinny | 0.03999998 / 0.02 | LEFT | 2
 Cheek Width | cheek_BonesOut | 0.426666737 / 0.0533333 | RIGHT | 8
