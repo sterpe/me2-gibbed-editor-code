@@ -7,6 +7,8 @@ upon cracking the save file with Mass Effect 2 Gibbed Editor.
 
 See http://masseffect.livejournal.com/656484.html
 
+## Derived Table
+
 Facial Structure | Internal Property | Float Value / Normal | Direction | Offset from Center
  --- | --- | --- | --- | :---:
 Neck Thickness | neck_wide | 0.02000002 / 0.02 | RIGHT | 1
@@ -33,7 +35,7 @@ Nose Height | nose_Down | 0.4 / 0.02667 | LEFT | 15
 Nose Depth | nose_BottomIn | 0.173333317 / 0.0433 | LEFT | 4
 
  
-<a name="footnote1">[1](#me2-gibbed-editor-facecode)</a>: Article said go \`LEFT' but appears to be wrong.
+<a name="footnote1">[1](#derived-table)</a>: Article said go \`LEFT' but appears to be wrong.
 
-<a name="footnote2">[2](#me2-gibbed-editor-facecode)</a>: Article says to divide by \`0.06667; think it should be 0.04.
+<a name="footnote2">[2](#derived-table)</a>: Article says to divide by \`0.06667; think it should be 0.04.
 
