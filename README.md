@@ -14,7 +14,7 @@ Facial Structure | Internal Property | Float Value / Normal | Direction | Offset
 Neck Thickness | neck_wide | 0.02000002 / 0.02 | RIGHT | 1
 Face Size | shape_skinny | 0.03999998 / 0.02 | LEFT | 2
 Cheek Width | cheek_BonesOut | 0.426666737 / 0.0533333 | RIGHT | 8
-Cheek Bones | cheek_DepthFront | 0.426666737 / 0.0533333 | RIGHT | 8<sup>[1](#footnote1)</sup>
+Cheek Bones | cheek_DepthFront | 0.426666737 / 0.0533333 | RIGHT<sup>[1](#footnote1)</sup> | 8
 Cheek Gaunt | cheek_Gaunt | (0.72 / 0.026667) + 1 | N/A | 28
 Ears Size | ears_large | 0.106666707 / 0.02667 | RIGHT | 4
 Ears Orientation | ears_out | 0.4 / 0.02667 | RIGHT | 15
@@ -25,7 +25,7 @@ Brow Depth | eyes_browBack | 0.4 / 0.06667 | LEFT | 6
 Brow Height | eyes_browDown | 0.399999976 / 0.033333 | LEFT | 12
 Chin Height | jaw_chinDown | 0.0266666412 / 0.06667 | LEFT | 1
 Chin Depth | jaw_chinIn | 0.4 / 0.026667 | LEFT | 15
-Chin Width | jaw_chinWide | 0.28 / 0.04 | LEFT | 7<sup>[2](#footnote2)</sup>
+Chin Width | jaw_chinWide | 0.28 / 0.04<sup>[2](#footnote2)</sup> | LEFT | 7
 Jaw Width | jaw_wide | 0.2666668 / 0.06667 | RIGHT | 4
 Mouth Depth | mouth_back | 0.5866667 / 0.0533333 | LEFT | 11
 Mouth Width | mouth_narrow | 0.3 / 0.2 | LEFT | 15
